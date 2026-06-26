@@ -35,7 +35,7 @@ First reply:
 
 ```text
 Repo:
-[GITHUB_URL]
+https://github.com/ai-martin-lau/thinkers-roundtable
 
 Use it for decisions where a polite AI answer is not enough.
 ```
@@ -58,7 +58,7 @@ Repo below.
 First reply:
 
 ```text
-[GITHUB_URL]
+https://github.com/ai-martin-lau/thinkers-roundtable
 
 Credit to Huashu's Nuwa Skill, which inspired the idea of distilling thinking patterns into reusable agent instructions:
 https://github.com/alchaincyf/nuwa-skill
