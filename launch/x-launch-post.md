@@ -1,34 +1,34 @@
 # X/Twitter Launch Post
 
-## Recommended Version
+Main post:
 
 ```text
-I made a free GitHub repo:
+I made a small free repo today:
 
 Thinkers Roundtable.
 
-It turns one hard decision into a structured debate between 11 decision lenses:
+When I have a hard decision, I do not want AI to agree with me.
 
-Musk for first principles.
-Munger for avoiding stupidity.
-Taleb for ruin risk.
-Naval for leverage.
-Feynman for real understanding.
-Jobs for focus.
-Karpathy for demo vs production.
-Paul Graham for early users.
-Ilya for deep understanding.
-Trump for negotiation.
-MrBeast for attention.
+I want it to argue with my assumptions.
 
-The point is not to let AI decide for you.
+So I turned 11 decision lenses into one prompt system:
 
-The point is to make AI argue with your assumptions before you make the decision.
+Musk: first principles
+Munger: avoid obvious stupidity
+Taleb: do not get wiped out
+Naval: look for leverage
+Feynman: explain it without jargon
+Jobs: cut until the thing is clear
+Karpathy: check demo vs real use
+Paul Graham: write it down and test with users
+Ilya: separate understanding from memorization
+Trump: map the negotiation
+MrBeast: see if people care and stay
 
-Free to use. GitHub link below.
+Not a personality pack.
+Not a "let AI decide my life" thing.
 
-Inspired by Huashu's Nuwa Skill:
-https://github.com/alchaincyf/nuwa-skill
+Just a way to make AI less polite before I make a real decision.
 ```
 
 First reply:
@@ -37,37 +37,12 @@ First reply:
 Repo:
 https://github.com/ai-martin-lau/thinkers-roundtable
 
-Use it for decisions where a polite AI answer is not enough.
+Use it when a polite AI answer is not enough.
 ```
 
-## Short Version
+Second reply:
 
 ```text
-I made a free GitHub repo called Thinkers Roundtable.
-
-It uses 11 decision lenses to pressure-test hard choices:
-
-first principles, incentives, ruin risk, leverage, focus, real understanding, AI reliability, early users, negotiation, and attention.
-
-Not AI deciding for you.
-AI arguing with your assumptions.
-
-Repo below.
-```
-
-First reply:
-
-```text
-https://github.com/ai-martin-lau/thinkers-roundtable
-
-Credit to Huashu's Nuwa Skill, which inspired the idea of distilling thinking patterns into reusable agent instructions:
+Inspired by Huashu's Nuwa Skill:
 https://github.com/alchaincyf/nuwa-skill
 ```
-
-## Posting Notes
-
-- Keep the GitHub link in the first reply if you want better reach.
-- Pin the reply if possible.
-- Do not over-explain in the main post. The README does the explaining.
-- Avoid hashtags.
-- After publishing, reply to early comments with concrete use cases.
